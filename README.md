@@ -1,3 +1,3 @@
 # hola
 
-un saludo a todos y a Gonzalo x su cumpleaños
+un saludo a Lulú y a Gonza por sus sumpleaños.
