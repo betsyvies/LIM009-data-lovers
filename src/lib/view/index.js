@@ -1,0 +1,1 @@
+/* Obtención de las vistas creadas */

@@ -1,1 +1,1 @@
-/* Manejo del DOM */
+/* Inicialización de la app */
